@@ -20,7 +20,7 @@ class Migration extends BaseMigration
                 'key' => 'amount',
                 'name' => '余额支付',
                 'admin_name' => '余额支付',
-                'plugin_key' => 'AmountPay',
+                'plugin_key' => 'WalletPay',
                 'icon' => 'icon-erjiye-yucunkuan',
                 'status' => '1',
                 'sort' => 10,
